@@ -40,7 +40,7 @@ soundnessup install
 You can later update the CLI to the latest version by running:
 
 ```bash
-soundnessup update
+
 ```
 
 ### Docker Installation
@@ -62,7 +62,7 @@ docker compos
 If you prefer to install from source, you can use Cargo.
 
 **Build and install:**
-Navigate to the `soundness-cli` directory and run:
+Navigate to soundnessup update the `soundness-cli` directory and run:
 
 ```bash
 cargo install --path .
